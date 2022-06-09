@@ -1,1 +1,12 @@
+{
+  "id" : 1,
+  "summary": "No login with valid username/password",
+  "severity": "Blocker",
+  "priority>": "High",
+  "status": "Open",
+  "precondition": "Valid data: Username- standard_user, password-secret_sauce",
+  "steps_to_reproduce": ["Go to www.saucedemo.com", "Enter valid Username/password combination", "Click [LOGIN] button"],   
+  "actual_resul": "Login is not sucssesfull. Error message Epic sadface: Username and password do not match any user in this service appears",
+  "expected_result": " Login is sucssesfull. The home page of the site appears"
+}
 

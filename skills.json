@@ -1,10 +1,8 @@
-
 {
-"terminal": "Командная строка (terminal) Linux GitBash",
-“mobile ”: ” Мобильное тестирование. Особенность iOS, Android, гайдлайны”
-"tools “: ”Dev Tools веб браузеров (Google Chrome, FireFox)”
-"SQL": "Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
-"Postman": "Тестирование API через Postman (JS, автотесты API)",
-"Jmeter": "Нагрузочное тестирование",
+"terminal":"Командная строка (terminal) Linux GitBash",
+"mobile":"Мобильное тестирование. Особенность iOS, Android, гайдлайны",
+"tools":"Dev Tools веб браузеров (Google Chrome, FireFox)",
+"SQL":"Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+"Postman":"Тестирование API через Postman (JS, автотесты API)",
+"Jmeter":"Нагрузочное тестирование",
 }
-
